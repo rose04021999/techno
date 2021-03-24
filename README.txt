@@ -1,8 +1,6 @@
-MDB5
-Version: FREE 3.0.0
+Thanks for downloading this template!
 
-Documentation:
-https://mdbootstrap.com/docs/standard/
-
-Contact:
-office@mdbootstrap.com
+Template Name: BizLand
+Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
